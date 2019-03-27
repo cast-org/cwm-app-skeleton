@@ -1,7 +1,9 @@
 # Cast-Wicket-Modules Skeleton application
 
-This application demonstrates basic setup needed to use some of the basic infrastructure that the CAST
-Wicket Modules provide:
+This application demonstrates basic setup needed to use some of the basic infrastructure 
+that the 
+[CAST Wicket Modules](https://github.com/cast-org/cast-wicket-modules)
+provide:
  * Base database structure
  * Event logging
 
