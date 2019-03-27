@@ -1,0 +1,7 @@
+<Context path="/" reloadable="false">
+    <Parameter name="appConfig" override="false" value="/Users/borisgoldowsky/apps/skeleton/app.config" />
+    <Parameter name="wicket.configuration" value="development" override="false" />
+    <Parameter name="javamelody.http-transform-pattern" value="[0-9A-F_]*[0-9][0-9A-F_]*" override="false"/>
+    <Parameter name="javamelody.monitoring-path" value="/monitor" override="false"/>
+    <JarScanner scanClassPath="false"/>
+</Context>
